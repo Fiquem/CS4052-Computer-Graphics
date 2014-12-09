@@ -11,10 +11,21 @@ Haha, man, this repo's a mess. I'll try and make it neater at some point.
 
 THIS REPO HAS BEEN CLEANSED
 
-Stupid videos:
+<b>Scene controls (assignment_4):</b>
+<br>wasd - move
+<br>numpad 8456, up and down arrows - change orientation
 
-http://fiquem.netsoc.ie/graphics/vids/ohdear.webm
+<b>Stupid videos of scene:</b>
+<br>http://fiquem.netsoc.ie/graphics/vids/grfx.webm
+<br>http://fiquem.netsoc.ie/graphics/vids/grfx.webm
 
-http://fiquem.netsoc.ie/graphics/vids/nomorespace.webm
+<b>Game controls (assignment_5):</b>
+<br>wasd - move
+<br>q, e - barrel roll
+<br>space - shoot
+<br>f - boost
 
-http://fiquem.netsoc.ie/graphics/vids/shakeitquest.webm
+<b>Stupid videos of game:</b>
+<br>http://fiquem.netsoc.ie/graphics/vids/ohdear.webm
+<br>http://fiquem.netsoc.ie/graphics/vids/nomorespace.webm
+<br>http://fiquem.netsoc.ie/graphics/vids/shakeitquest.webm
