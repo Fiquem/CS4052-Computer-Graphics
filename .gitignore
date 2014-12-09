@@ -152,8 +152,6 @@ ClientBin/
 *.pfx
 *.publishsettings
 
-*.exe
-
 # RIA/Silverlight projects
 Generated_Code/
 
