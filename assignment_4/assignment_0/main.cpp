@@ -8,7 +8,6 @@
 #define STB_IMAGE_IMPLEMENTATION
 #include <stb_image.h>
 #include <obj_parser.h>
-#include <obj_parser.cpp>
 
 
 //
