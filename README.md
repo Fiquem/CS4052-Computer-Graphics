@@ -1,7 +1,7 @@
 CS4052-Computer-Graphics
 ========================
 
-Stuff I did for my computer graphics course which was the best course ever and I already miss it ;_;
+Stuff I did for my computer graphics course
 
 Should clarify that I didn't write anything in the libs folder, just stole it so my game'd run!
 
